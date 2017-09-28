@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/xml/preferences.xml"
+    }
+]

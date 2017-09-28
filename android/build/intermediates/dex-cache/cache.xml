@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bakhtiar/mew-key-android/node_modules/react-native-camera/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4540eef38b9009a2b5b6c7c8f3912e123f1dba4">
+        <dex dex="/home/bakhtiar/mew-key-android/android/app/build/intermediates/pre-dexed/debug/classes_ab6a16fc19771de79b1abfebd815c973472ab9e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/bakhtiar/mew-key-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_81caa330c4649bdb858b6723b1acba5e788d393f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/home/bakhtiar/mew-key-android/android/app/build/intermediates/pre-dexed/debug/classes_6500602ad0ac7100bca4759984d7716dba95263f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bakhtiar/mew-key-android/node_modules/react-native-randombytes/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="231a3977266f7c8f95309e1e31ea3cb9666db8fe">
+        <dex dex="/home/bakhtiar/mew-key-android/android/app/build/intermediates/pre-dexed/debug/classes_8cc629934659717d1b8ee162f480e602bb50278d.jar" />
+    </item>
+
+</items>

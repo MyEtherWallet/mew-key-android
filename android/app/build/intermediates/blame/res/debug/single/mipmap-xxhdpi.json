@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/bakhtiar/mew-signer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/bakhtiar/mew-key-android/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

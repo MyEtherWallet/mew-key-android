@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

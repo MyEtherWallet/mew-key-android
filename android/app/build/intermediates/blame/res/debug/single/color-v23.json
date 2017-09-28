@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/color-v23/abc_color_highlight_material.xml"
+    }
+]

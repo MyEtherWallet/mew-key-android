@@ -1,0 +1,38 @@
+{
+  "name": "mew-signer",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "eslint": "^4.1.1",
+    "eslint-plugin-react": "^7.1.0",
+    "jest-expo": "~18.0.0",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "ethereumjs-tx": "^1.3.3",
+    "ethereumjs-wallet": "^0.6.0",
+    "node-libs-browser": "^2.0.0",
+    "path": "^0.12.7",
+    "react": "16.0.0-alpha.12",
+    "react-native": "^0.45.1",
+    "react-native-camera": "git+https://github.com/lwansbrough/react-native-camera.git",
+    "react-native-crypto": "^2.0.2",
+    "react-native-fast-crypto": "github:airbitz/react-native-fast-crypto",
+    "react-native-randombytes": "^2.2.0",
+    "react-native-uuid": "^1.4.9",
+    "react-navigation": "^1.0.0-beta.11",
+    "react-redux": "^5.0.5",
+    "redux": "^3.7.1",
+    "web3": "^1.0.0-beta.22"
+  }
+}

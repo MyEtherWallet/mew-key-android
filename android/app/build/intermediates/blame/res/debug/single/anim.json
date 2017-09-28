@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/fade_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/slide_down.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/home/bakhtiar/.android/build-cache/36af450f5076bc6ebb3c9c8cede59f50884b254f/output/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-key-android/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/32162a409f592bef9811d3e143eaf7bf8171811d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/bakhtiar/mew-signer/android/app/build/intermediates/res/merged/debug/anim/fade_in.xml",
+        "source": "/home/bakhtiar/.android/build-cache/1577602ab0fc3c9879766aefa64b4b6977e1ae86/output/res/anim/fade_in.xml"
+    }
+]
